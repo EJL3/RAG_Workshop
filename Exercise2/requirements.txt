@@ -1,0 +1,33 @@
+# ============================================
+# 🏫 Smart Campus Navigator - Exercise 2
+# ============================================
+# Dependencies for the workshop
+# Run: pip install -r requirements.txt
+
+# Core LangChain Framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-classic>=1.0.0
+
+# Local LLM Support (Ollama)
+langchain-ollama>=0.2.0
+
+# Local Embeddings (HuggingFace - No API needed!)
+langchain-huggingface>=0.1.0
+sentence-transformers>=2.2.0
+
+# Community Integrations (Document Loaders)
+langchain-community>=0.3.0
+
+# Text Splitters
+langchain-text-splitters>=0.3.0
+
+# ⭐ ChromaDB - Persistent Vector Store (NEW in Exercise 2!)
+langchain-chroma>=0.2.0
+chromadb>=0.4.0
+
+# PDF Processing (in case students add PDFs)
+pypdf>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0

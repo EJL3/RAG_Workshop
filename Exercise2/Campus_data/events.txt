@@ -1,0 +1,23 @@
+CAMPUS EVENTS CALENDAR - SEMESTER 1 (2026)
+
+1. EVENT: TECH-VINE 2026 (Annual Tech Fest)
+   DATE: January 15 - January 17, 2026.
+   VENUE: Main Auditorium and CS Department Labs.
+   COORDINATOR: Prof. Anjali Menon.
+   HIGHLIGHTS: AI Hackathon, Robotics Combat, and Paper Presentations.
+
+2. EVENT: KERALA STARTUP MISSION (KSUM) ROADSHOW
+   DATE: January 22, 2026.
+   TIME: 10:00 AM.
+   VENUE: Seminar Hall (Ground Floor).
+   PURPOSE: Interaction with local entrepreneurs and funding opportunities.
+
+3. EVENT: INTER-COLLEGE FOOTBALL TOURNAMENT
+   DATE: February 05, 2026.
+   VENUE: College Sports Ground.
+   CONTACT: Physical Education Department.
+
+4. EVENT: DATA-SCIENCE WORKSHOP BY DATAVINE
+   DATE: January 07, 2026.
+   SPEAKER: Rizwan Rahim (CTO).
+   VENUE: Seminar Hall.
