@@ -118,5 +118,3 @@ Delete the `chroma_campus_db` folder and run again to rebuild.
 Delete the `chroma_campus_db` folder, add your new files to `Campus_data/`, and run again.
 
 ---
-
-Made with ❤️ for Gen Z CS Students in Kerala
