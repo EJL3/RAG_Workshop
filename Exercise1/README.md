@@ -102,5 +102,3 @@ The first time you run, it downloads the embedding model (~90MB). This is cached
 3. **Textbook Helper:** Upload lecture notes and get explanations
 
 ---
-
-Made with ❤️ for Gen Z CS Students in Kerala
